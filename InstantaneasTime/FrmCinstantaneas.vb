@@ -3,6 +3,10 @@ Imports Microsoft.Office.Interop
 
 Public Class FrmCinstantaneas
 
+    'Agregado al repositorio
+    '04/08/2019
+    'Alvaro Araujo
+
     Dim nombreHoja As String
     Dim conn As New ADODB.Connection()
     Dim rstlab As New ADODB.Recordset()
